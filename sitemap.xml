@@ -1,35 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://mustafatufan.de/</loc>
-        <xhtml:link rel="alternate" hreflang="de" href="https://mustafatufan.de/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://mustafatufan.de/en/"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://mustafatufan.de/"/>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://mustafatufan.de/en/</loc>
-        <xhtml:link rel="alternate" hreflang="de" href="https://mustafatufan.de/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://mustafatufan.de/en/"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://mustafatufan.de/"/>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
+        <loc>https://mustafatufan.de/es/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/fr/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/pt/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/tr/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/it/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/pl/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/nl/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/ro/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/el/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/hu/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/cs/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/sv/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/bg/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/da/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/fi/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/sk/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/hr/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/lt/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/sl/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/lv/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/et/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/ga/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/mt/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://mustafatufan.de/beyond.html</loc>
-        <xhtml:link rel="alternate" hreflang="de" href="https://mustafatufan.de/beyond.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://mustafatufan.de/en/beyond.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://mustafatufan.de/beyond.html"/>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://mustafatufan.de/en/beyond.html</loc>
-        <xhtml:link rel="alternate" hreflang="de" href="https://mustafatufan.de/beyond.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://mustafatufan.de/en/beyond.html"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://mustafatufan.de/beyond.html"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/es/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/fr/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/pt/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/tr/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/it/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/pl/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/nl/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/ro/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/el/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/hu/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/cs/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/sv/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/bg/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/da/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/fi/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/sk/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/hr/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/lt/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/sl/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/lv/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/et/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/ga/beyond.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mustafatufan.de/mt/beyond.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>

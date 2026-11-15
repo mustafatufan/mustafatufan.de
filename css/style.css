@@ -19,6 +19,17 @@ a:active {
 	text-decoration: none;
 }
 
+/* Language menu: every language without a button of its own, in two columns */
+.lang-menu.show {
+	min-width: 19rem;
+	column-count: 2;
+	column-gap: 0;
+}
+
+.lang-menu li {
+	break-inside: avoid;
+}
+
 /* ---------- Resume ----------
    Plain headings, paragraphs and lists in a single column, so that the
    printed PDF reads top to bottom for applicant tracking systems (ATS). */
@@ -246,8 +257,10 @@ a:active {
 }
 
 @media print {
+	/* 9pt by default. A language whose text runs longer sets a smaller size
+	   on its <html> element so that it still fits on two pages (build.py). */
 	:root {
-		font-size: 9pt;
+		font-size: var(--print-font-size, 9pt);
 	}
 
 	body {

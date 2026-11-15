@@ -1,0 +1,11 @@
+{
+    "region_nrw": "Nordrhein-Westfalen",
+    "sk_prog": "Java, Kotlin, Python, SQL, PL/SQL, TypeScript, JavaScript, Dart, C/C++",
+    "sk_backend": "Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, Microservices, WebSocket, Multithreading",
+    "sk_data": "PostgreSQL, Oracle, Amazon Redshift (AWS), Microsoft SQL Server, Flyway, Apache Airflow, Metabase",
+    "sk_frontend": "Flutter, HTML, CSS, JSF, PrimeFaces",
+    "sk_testing": "JUnit, Mockito, Testcontainers, TDD, Clean Code, Code Review, Scrum, Kanban, Agile, Jira, Confluence",
+    "sk_build": "Git, GitHub, Apache Maven, Gradle, Jenkins, Bamboo, IntelliJ IDEA",
+    "sk_cloud": "Docker, Docker Compose, Linux, Nginx, DigitalOcean, Cloudflare, Sentry",
+    "sk_ai": "Claude Code, GitHub Copilot, Gemini, ChatGPT"
+}
