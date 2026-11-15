@@ -24,7 +24,7 @@
     "status_avail_text": "immediata, in sede, in modalità ibrida o da remoto",
 
     "h_summary": "Profilo",
-    "summary": "Sviluppatore Software Senior con oltre 10 anni di esperienza come sviluppatore backend Java e Kotlin e ingegnere full stack in fintech, banche, assicurazioni e criptovalute, oltre a una laurea magistrale in finanza. Stack principale: Java, Kotlin, Python, Spring Boot e SQL. Ha consegnato progetti normativi su previdenza e protezione dei dati in Allianz, ha lavorato come sviluppatore software e unico data analyst in una start-up di investimenti in criptovalute e ha mantenuto un sistema di trading collegato alla borsa Borsa Istanbul. Sviluppa e gestisce progetti personali in produzione, tra cui SoloChance.org, con oltre 5 milioni di richieste mensili e 40.000 utenti unici. Usa ogni giorno lo sviluppo assistito dall'IA (Claude Code, GitHub Copilot, Gemini, ChatGPT), verificando sempre i risultati sulla documentazione ufficiale.",
+    "summary": "Sviluppatore Software Senior con oltre 10 anni di esperienza come sviluppatore backend Java e Kotlin e ingegnere full stack in fintech, banche, assicurazioni e criptovalute, oltre a una laurea magistrale in finanza. Stack principale: Java, Kotlin, Python, Spring Boot e SQL. Ho realizzato progetti normativi su previdenza e protezione dei dati in Allianz, ho lavorato come sviluppatore software e unico data analyst in una start-up di investimenti in criptovalute e ho curato la manutenzione di un sistema di trading collegato alla borsa valori Borsa Istanbul. Sviluppo e gestisco progetti personali in produzione, tra cui SoloChance.org, con oltre 5 milioni di richieste mensili e 40.000 utenti unici. Uso ogni giorno lo sviluppo assistito dall'IA (Claude Code, GitHub Copilot, Gemini, ChatGPT), verificando sempre i risultati sulla documentazione ufficiale.",
 
     "h_skills": "Competenze",
     "sk_prog_label": "Linguaggi di programmazione:",
@@ -65,9 +65,9 @@
     "in_production": "in produzione",
 
     "j1_b1": "Sviluppo e manutenzione di servizi backend per prodotti di previdenza privata e assicurativi con Java, Spring Boot, JPA, Hibernate e PL/SQL in un team Scrum.",
-    "j1_b2": "Consegna di Test Data Management (TDM), un grande progetto di protezione dei dati richiesto dalla KVKK (l'equivalente turco del GDPR): mascheramento e anonimizzazione di tutti i dati di produzione su tutti i server di test, in coordinamento con tutti i reparti dell'azienda.",
-    "j1_b3": "Consegna di Temlik, un processo aziendale normativo che consente ai clienti della previdenza privata di usare i propri risparmi come garanzia sui mercati del credito.",
-    "j1_b4": "Consegna di Kısmen Ödeme (pagamento parziale), un processo aziendale normativo che consente ai clienti della previdenza privata di prelevare parte dei propri fondi.",
+    "j1_b2": "Realizzazione di Test Data Management (TDM), un grande progetto di protezione dei dati richiesto dalla KVKK (l'equivalente turco del GDPR): mascheramento e anonimizzazione di tutti i dati di produzione su tutti i server di test, in coordinamento con tutti i reparti dell'azienda.",
+    "j1_b3": "Realizzazione di Temlik, un processo aziendale normativo che consente ai clienti della previdenza privata di usare i propri risparmi come garanzia sui mercati del credito.",
+    "j1_b4": "Realizzazione di Kısmen Ödeme (pagamento parziale), un processo aziendale normativo che consente ai clienti della previdenza privata di prelevare parte dei propri fondi.",
     "j1_b5": "Centralizzazione dei servizi di consenso alle comunicazioni, prima distribuiti su più progetti.",
 
     "j2_b1": "Sviluppo backend (Kotlin, microservizi Spring Boot) e frontend (Flutter) di molte funzionalità critiche e più usate di un'app di investimento in criptovalute: notifiche di portafoglio e di prezzo, grafici di portafoglio e di performance, sezione notizie.",
@@ -81,7 +81,7 @@
     "j4_b1": "Sviluppo, come unico sviluppatore, di Allianz Messenger Client, una dipendenza usata da altri progetti per l'invio di SMS ed e-mail.",
     "j4_b2": "Refactoring di progetti legacy come membro di un team Scrum.",
 
-    "j5_b1": "Manutenzione di [[infleks_trade|Infleks Trade]], un sistema di trading che invia ordini in tempo reale alla borsa Borsa Istanbul.",
+    "j5_b1": "Manutenzione di [[infleks_trade|Infleks Trade]], un sistema di trading che invia ordini in tempo reale alla borsa valori Borsa Istanbul.",
     "j5_b2": "Sviluppo dei moduli di contabilità e clienti di [[infleks_operation|Infleks Operation]] e [[infleks_wealth|Infleks Wealth Management]] come unico sviluppatore di questi moduli nel team, e manutenzione dei moduli fondi e strumenti derivati.",
     "j5_note": "Vincitore di un concorso interno per il nuovo slogan aziendale, che ha sostituito quello in uso dal 2004 con <i>Innovation for Finance</i>",
 
@@ -145,7 +145,7 @@
     "b_work": "Pratico lo stoicismo, nella vita personale come in quella professionale. Quando qualcosa va storto, faccio tutto il possibile per rimediare. Ma quando qualcosa è davvero fuori dal mio controllo, sposto l'attenzione dove posso effettivamente fare la differenza. Non posso dire di essere una persona mattiniera o un nottambulo, e non ho una preferenza netta tra lavoro da remoto e in sede. Quello che posso dire è che voglio essere dove c'è più bisogno di me e dove posso avere più impatto.",
     "b_h_hobbies": "I miei tre hobby principali",
     "b_h1": "1. Solo mining di Bitcoin",
-    "b_p1": "Faccio solo mining di Bitcoin per hobby fin dagli inizi di questo mondo, il che fa di me uno dei primi appassionati di questa nicchia. Ho creato e gestisco [[solochance|SoloChance.org]], uno dei primi siti di riferimento e di calcolo dedicati al solo mining. A casa tengo anche in funzione diversi dispositivi di mining open source. È un hobby affascinante, in cui si incontrano divertimento, ingegneria, matematica e pura fortuna. Ne parlo volentieri, se è curioso di saperne di più.",
+    "b_p1": "Faccio solo mining di Bitcoin per hobby fin dagli inizi di questo mondo, il che fa di me uno dei primi appassionati di questa nicchia. Ho creato e gestisco [[solochance|SoloChance.org]], uno dei primi siti di riferimento e di calcolo dedicati al solo mining. A casa tengo anche in funzione diversi dispositivi di mining open source. È un hobby affascinante, in cui si incontrano divertimento, ingegneria, matematica e pura fortuna. Ne parlo volentieri, se desidera saperne di più.",
     "b_h2": "2. Automobili",
     "b_p2": "Avere la mia prima auto mi ha fatto capire quanto il design automobilistico abbia perso carattere rispetto alle auto con cui sono cresciuto da bambino. Da lì è nato un profondo interesse per le youngtimer, le auto costruite all'incirca tra il 1990 e il 2018. Passo molto tempo a documentarmi su questi modelli, e una delle cose che più mi entusiasmano della Germania è avere finalmente la BMW o l'Audi dei miei sogni. Un giro al Nürburgring è ancora nella mia lista dei desideri. Oltre a tutto questo, sono un grande fan e giocatore abituale di Gran Turismo 7.",
     "b_h3": "3. Astronomia e scienza",

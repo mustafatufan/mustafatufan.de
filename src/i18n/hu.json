@@ -24,7 +24,7 @@
     "status_avail_text": "azonnal, helyszíni, hibrid vagy távmunkára",
 
     "h_summary": "Összefoglaló",
-    "summary": "Senior szoftverfejlesztő több mint 10 év tapasztalattal Java és Kotlin backend fejlesztőként és full stack mérnökként a fintech, a banki, a biztosítási és a kriptovaluta-szektorban, pénzügyi mesterdiplomával. Fő technológiák: Java, Kotlin, Python, Spring Boot és SQL. Az Allianznál szabályozói nyugdíj- és adatvédelmi projekteket szállítottam le, egy kriptovaluta-befektetési startupnál egyszerre voltam szoftverfejlesztő és a cég egyetlen adatelemzője, és a Borsa Istanbul tőzsdéhez kapcsolódó kereskedési rendszert tartottam karban. Saját projekteket fejlesztek és üzemeltetek éles környezetben, köztük a SoloChance.org oldalt havi több mint 5 millió kéréssel és 40 ezer egyedi felhasználóval. Naponta használok MI-vel támogatott fejlesztést (Claude Code, GitHub Copilot, Gemini, ChatGPT), az eredményeket mindig a hivatalos dokumentációval ellenőrizve.",
+    "summary": "Senior szoftverfejlesztő több mint 10 év tapasztalattal Java és Kotlin backend fejlesztőként és full stack mérnökként a fintech, a banki, a biztosítási és a kriptovaluta-szektorban, pénzügyi mesterdiplomával. Fő technológiák: Java, Kotlin, Python, Spring Boot és SQL. Az Allianznál szabályozói nyugdíj- és adatvédelmi projekteket valósítottam meg, egy kriptovaluta-befektetési startupnál egyszerre voltam szoftverfejlesztő és a cég egyetlen adatelemzője, és a Borsa Istanbul tőzsdéhez kapcsolódó kereskedési rendszert tartottam karban. Saját projekteket fejlesztek és üzemeltetek éles környezetben, köztük a SoloChance.org oldalt havi több mint 5 millió kéréssel és 40 ezer egyedi felhasználóval. Naponta használok MI-vel támogatott fejlesztést (Claude Code, GitHub Copilot, Gemini, ChatGPT), az eredményeket mindig a hivatalos dokumentációval ellenőrizve.",
 
     "h_skills": "Készségek",
     "sk_prog_label": "Programozási nyelvek:",
@@ -65,9 +65,9 @@
     "in_production": "éles üzemben",
 
     "j1_b1": "Backend szolgáltatások fejlesztése és karbantartása magánnyugdíj- és biztosítási termékekhez Java, Spring Boot, JPA, Hibernate és PL/SQL használatával, Scrum csapatban.",
-    "j1_b2": "A Test Data Management (TDM) leszállítása: a KVKK (a GDPR török megfelelője) által előírt nagy adatvédelmi projekt, amelyben az összes éles adatot maszkoltuk és anonimizáltuk az összes tesztszerveren, a cég minden részlegével egyeztetve.",
-    "j1_b3": "A Temlik leszállítása: szabályozói üzleti folyamat, amellyel a magánnyugdíj-ügyfelek a megtakarításukat fedezetként használhatják a hitelpiacokon.",
-    "j1_b4": "A Kısmen Ödeme (részleges kifizetés) leszállítása: szabályozói üzleti folyamat, amellyel a magánnyugdíj-ügyfelek részlegesen kivehetik a megtakarításukat.",
+    "j1_b2": "A Test Data Management (TDM) megvalósítása: a KVKK (a GDPR török megfelelője) által előírt nagy adatvédelmi projekt, amelyben az összes éles adatot maszkoltuk és anonimizáltuk az összes tesztszerveren, a cég minden részlegével egyeztetve.",
+    "j1_b3": "A Temlik megvalósítása: szabályozói üzleti folyamat, amellyel a magánnyugdíj-ügyfelek a megtakarításukat fedezetként használhatják a hitelpiacokon.",
+    "j1_b4": "A Kısmen Ödeme (részleges kifizetés) megvalósítása: szabályozói üzleti folyamat, amellyel a magánnyugdíj-ügyfelek részlegesen kivehetik a megtakarításukat.",
     "j1_b5": "A több projektben szétszórt kommunikációs hozzájárulási szolgáltatások központosítása.",
 
     "j2_b1": "Backend (Kotlin, Spring Boot mikroszolgáltatások) és frontend (Flutter) fejlesztés egy kriptobefektetési alkalmazás számos kritikus, leggyakrabban használt funkcióján, például a portfólió- és árfolyamértesítéseken, a portfólió- és teljesítménygrafikonokon és a hírek részen.",

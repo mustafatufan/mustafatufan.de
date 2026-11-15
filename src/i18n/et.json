@@ -20,8 +20,8 @@
     "city_elazig": "Elazig",
     "status_work_label": "Tööluba Saksamaal:",
     "status_work_text": "Chancenkarte (võimaluste kaart), viisasponsorlust ei ole vaja",
-    "status_avail_label": "Saadavus:",
-    "status_avail_text": "kohe, kontoris, hübriid- või kaugtööks",
+    "status_avail_label": "Saan alustada:",
+    "status_avail_text": "kohe; kontoris, hübriid- või kaugtööna",
 
     "h_summary": "Profiil",
     "summary": "Vanemtarkvaraarendaja, kellel on üle 10 aasta kogemust Java ja Kotlini backend-arendajana ning full stack insenerina finantstehnoloogia, panganduse, kindlustuse ja krüptoraha vallas ning magistrikraad rahanduses. Põhitehnoloogiad: Java, Kotlin, Python, Spring Boot ja SQL. Viisin Allianzis ellu regulatiivseid pensioni- ja andmekaitseprojekte, töötasin krüptoinvesteeringute idufirmas korraga tarkvaraarendaja ja ettevõtte ainsa andmeanalüütikuna ning hooldasin Borsa Istanbuli börsiga ühendatud kauplemissüsteemi. Arendan ja haldan isiklikke projekte toodangukeskkonnas, sealhulgas SoloChance.org, millel on üle 5 miljoni päringu kuus ja 40 000 unikaalset kasutajat. Kasutan iga päev tehisintellekti toel arendamist (Claude Code, GitHub Copilot, Gemini, ChatGPT) ja kontrollin tulemusi alati ametlikust dokumentatsioonist.",

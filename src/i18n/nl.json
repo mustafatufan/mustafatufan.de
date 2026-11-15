@@ -1,6 +1,6 @@
 {
     "title_job": "Senior softwareontwikkelaar",
-    "title_resume_word": "Cv",
+    "title_resume_word": "cv",
     "desc_short": "Senior softwareontwikkelaar met meer dan 10 jaar ervaring in fintech, bankwezen en verzekeringen. Java, Kotlin, Python, Spring Boot.",
     "desc_based": "Woonachtig in Duisburg, Duitsland.",
 
@@ -88,7 +88,7 @@
     "j6_b1": "Ontwikkeling en publicatie van Android-apps, mobiele games en ontwikkeltools tijdens meerdere stages.",
 
     "h_projects": "Eigen projecten",
-    "p1_what": "kansberekening voor solo-mining",
+    "p1_what": "kanscalculator voor solo-mining",
     "p1_b1": "Berekent de kansen bij solo-mining voor cryptominers via een gebruiksvriendelijke frontend en een openbare REST API, met meer dan 5 miljoen verzoeken per maand en 40.000 unieke gebruikers.",
     "p1_b2": "De populairste tool onder thuis- en hobbyminers om hun kansen ten opzichte van de actuele hashrate van het netwerk en hun mogelijke opbrengst te berekenen, genoemd in [[youtube|honderden YouTube-video's]].",
     "p2_what": "Bitcoin Cash-miningpools",

@@ -24,7 +24,7 @@
     "status_avail_text": "imediată, pentru lucru la sediu, hibrid sau la distanță",
 
     "h_summary": "Profil",
-    "summary": "Inginer software senior cu peste 10 ani de experiență ca dezvoltator backend Java și Kotlin și inginer full stack în fintech, domeniul bancar, asigurări și criptomonede, plus un master în finanțe. Tehnologii de bază: Java, Kotlin, Python, Spring Boot și SQL. A livrat proiecte de reglementare în domeniul pensiilor și al protecției datelor la Allianz, a lucrat în același timp ca inginer software și unic analist de date într-un start-up de investiții în criptomonede și a întreținut un sistem de tranzacționare conectat la bursa Borsa Istanbul. Dezvoltă și operează proiecte personale în producție, inclusiv SoloChance.org, cu peste 5 milioane de cereri lunare și 40.000 de utilizatori unici. Folosește zilnic dezvoltarea asistată de IA (Claude Code, GitHub Copilot, Gemini, ChatGPT), verificând întotdeauna rezultatele în documentația oficială.",
+    "summary": "Inginer software senior cu peste 10 ani de experiență ca dezvoltator backend Java și Kotlin și inginer full stack în fintech, domeniul bancar, asigurări și criptomonede, plus un master în finanțe. Tehnologii de bază: Java, Kotlin, Python, Spring Boot și SQL. Am livrat proiecte de reglementare în domeniul pensiilor și al protecției datelor la Allianz, am lucrat în același timp ca inginer software și unic analist de date într-un start-up de investiții în criptomonede și am întreținut un sistem de tranzacționare conectat la bursa Borsa Istanbul. Dezvolt și operez proiecte personale în producție, inclusiv SoloChance.org, cu peste 5 milioane de cereri lunare și 40.000 de utilizatori unici. Folosesc zilnic dezvoltarea asistată de IA (Claude Code, GitHub Copilot, Gemini, ChatGPT), verificând întotdeauna rezultatele în documentația oficială.",
 
     "h_skills": "Competențe",
     "sk_prog_label": "Limbaje de programare:",
@@ -78,7 +78,7 @@
 
     "j3_b1": "Dezvoltarea de module Odoo ERP personalizate în Python și JavaScript pentru companii estoniene din construcții și producție.",
 
-    "j4_b1": "Dezvoltarea, ca unic dezvoltator, a Allianz Messenger Client, o dependință folosită de alte proiecte pentru trimiterea de SMS-uri și e-mailuri.",
+    "j4_b1": "Dezvoltarea, ca unic dezvoltator, a Allianz Messenger Client, o dependență folosită de alte proiecte pentru trimiterea de SMS-uri și e-mailuri.",
     "j4_b2": "Refactorizarea proiectelor legacy ca membru al unei echipe Scrum.",
 
     "j5_b1": "Întreținerea [[infleks_trade|Infleks Trade]], un sistem de tranzacționare care trimite ordine în timp real către bursa Borsa Istanbul.",
@@ -145,7 +145,7 @@
     "b_work": "Practic stoicismul, atât în viața personală, cât și în cea profesională. Când lucrurile merg prost, fac tot ce pot ca să le îndrept. Dar când ceva este cu adevărat în afara controlului meu, îmi mut atenția acolo unde pot face cu adevărat o diferență. Nu pot spune că sunt o persoană matinală sau una de noapte și nu am o preferință puternică între lucrul la distanță și cel de la birou. Ce pot spune este că vreau să fiu acolo unde este cea mai mare nevoie de mine și unde am cel mai mare impact.",
     "b_h_hobbies": "Cele trei hobby-uri principale ale mele",
     "b_h1": "1. Minerit solo de Bitcoin",
-    "b_p1": "Fac minerit solo de Bitcoin ca hobby încă de la începuturile acestui domeniu, ceea ce mă face unul dintre primii entuziaști ai acestei nișe. Am creat și întrețin [[solochance|SoloChance.org]], unul dintre primele site-uri de referință și calcul dedicate mineritului solo. Am acasă și mai multe dispozitive de minerit open source. Este un hobby fascinant, în care se întâlnesc distracția, ingineria, matematica și norocul pur. Vorbesc cu plăcere despre el, dacă sunteți curios să aflați mai multe.",
+    "b_p1": "Fac minerit solo de Bitcoin ca hobby încă de la începuturile acestui domeniu, ceea ce mă face unul dintre primii entuziaști ai acestei nișe. Am creat și întrețin [[solochance|SoloChance.org]], unul dintre primele site-uri de referință și calcul dedicate mineritului solo. Am acasă și mai multe dispozitive de minerit open source. Este un hobby fascinant, în care se întâlnesc distracția, ingineria, matematica și norocul pur. Vorbesc cu plăcere despre el, dacă doriți să aflați mai multe.",
     "b_h2": "2. Mașini",
     "b_p2": "Când am avut prima mea mașină, mi-am dat seama cât de mult și-a pierdut caracterul designul auto față de mașinile printre care am crescut. Asta mi-a stârnit un interes profund pentru youngtimere, mașinile fabricate aproximativ între 1990 și 2018. Petrec mult timp documentându-mă despre aceste modele, iar unul dintre lucrurile care mă entuziasmează cel mai mult în Germania este să am, în sfârșit, BMW-ul sau Audi-ul visurilor mele. Un tur pe Nürburgring este încă pe lista mea de dorințe. Pe lângă toate acestea, sunt un mare fan și jucător constant de Gran Turismo 7.",
     "b_h3": "3. Astronomie și știință",

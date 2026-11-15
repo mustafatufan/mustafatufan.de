@@ -1,7 +1,7 @@
 {
     "title_job": "Inġinier Anzjan tas-Software",
     "title_resume_word": "CV",
-    "desc_short": "Inġinier Anzjan tas-Software b'aktar minn 10 snin esperjenza fil-fintech, fil-banek u fl-assigurazzjoni. Java, Kotlin, Python, Spring Boot.",
+    "desc_short": "Inġinier Anzjan tas-Software b'aktar minn 10 snin ta' esperjenza fil-fintech, fil-banek u fl-assigurazzjoni. Java, Kotlin, Python, Spring Boot.",
     "desc_based": "Jgħix f'Duisburg, il-Ġermanja.",
 
     "ui_download_pdf": "Niżżel il-PDF",
@@ -24,7 +24,7 @@
     "status_avail_text": "minnufih, għal xogħol fuq il-post, ibridu jew mill-bogħod",
 
     "h_summary": "Profil",
-    "summary": "Inġinier Anzjan tas-Software b'aktar minn 10 snin esperjenza bħala żviluppatur backend b'Java u Kotlin u inġinier full stack fil-fintech, fil-banek, fl-assigurazzjoni u fil-kriptovaluti, flimkien ma' Master fil-finanzi. Teknoloġiji ewlenin: Java, Kotlin, Python, Spring Boot u SQL. Wassalt proġetti regolatorji tal-pensjonijiet u tal-protezzjoni tad-data f'Allianz, ħdimt fl-istess ħin bħala inġinier tas-software u bħala l-uniku analista tad-data f'kumpanija start-up tal-investiment fil-kriptovaluti, u żammejt sistema tal-kummerċ konnessa mal-borża Borsa Istanbul. Niżviluppa u nopera proġetti personali fil-produzzjoni, fosthom SoloChance.org b'aktar minn 5 miljun talba fix-xahar u 40,000 utent uniku. Nuża kuljum l-iżvilupp assistit mill-IA (Claude Code, GitHub Copilot, Gemini, ChatGPT), u dejjem nivverifika r-riżultati mad-dokumentazzjoni uffiċjali.",
+    "summary": "Inġinier Anzjan tas-Software b'aktar minn 10 snin ta' esperjenza bħala żviluppatur backend b'Java u Kotlin u inġinier full stack fil-fintech, fil-banek, fl-assigurazzjoni u fil-kriptovaluti, flimkien ma' Master fil-finanzi. Teknoloġiji ewlenin: Java, Kotlin, Python, Spring Boot u SQL. Wassalt proġetti regolatorji tal-pensjonijiet u tal-protezzjoni tad-data f'Allianz, ħdimt fl-istess ħin bħala inġinier tas-software u bħala l-uniku analista tad-data f'kumpanija start-up tal-investiment fil-kriptovaluti, u ħadt ħsieb il-manutenzjoni ta' sistema tal-kummerċ konnessa mal-borża Borsa Istanbul. Niżviluppa u nopera proġetti personali fil-produzzjoni, fosthom SoloChance.org b'aktar minn 5 miljun talba fix-xahar u 40,000 utent uniku. Nuża kuljum l-iżvilupp assistit mill-IA (Claude Code, GitHub Copilot, Gemini, ChatGPT), u dejjem nivverifika r-riżultati mad-dokumentazzjoni uffiċjali.",
 
     "h_skills": "Ħiliet",
     "sk_prog_label": "Lingwi tal-programmar:",
@@ -64,7 +64,7 @@
     "present": "illum",
     "in_production": "fil-produzzjoni",
 
-    "j1_b1": "Żviluppajt u żammejt servizzi backend għal prodotti tal-pensjonijiet privati u tal-assigurazzjoni b'Java, Spring Boot, JPA, Hibernate u PL/SQL f'tim Scrum.",
+    "j1_b1": "Żviluppajt u mmantnejt servizzi backend għal prodotti tal-pensjonijiet privati u tal-assigurazzjoni b'Java, Spring Boot, JPA, Hibernate u PL/SQL f'tim Scrum.",
     "j1_b2": "Wassalt Test Data Management (TDM), proġett kbir tal-protezzjoni tad-data meħtieġ mill-KVKK (l-ekwivalenti Tork tal-GDPR): id-data kollha tal-produzzjoni fuq is-servers kollha tal-ittestjar ġiet moħbija u anonimizzata, b'koordinazzjoni mad-dipartimenti kollha tal-kumpanija.",
     "j1_b3": "Wassalt Temlik, proċess tan-negozju regolatorju li jippermetti lill-klijenti tal-pensjonijiet privati jużaw it-tfaddil tal-pensjoni tagħhom bħala garanzija fis-swieq tal-kreditu.",
     "j1_b4": "Wassalt Kısmen Ödeme (pagament parzjali), proċess tan-negozju regolatorju li jippermetti lill-klijenti tal-pensjonijiet privati jiġbdu parti mill-fondi tagħhom.",
@@ -81,8 +81,8 @@
     "j4_b1": "Żviluppajt waħdi Allianz Messenger Client, dipendenza li jużaw proġetti oħra biex jibagħtu SMS u email.",
     "j4_b2": "Għamilt refactoring ta' proġetti legacy bħala membru ta' tim Scrum.",
 
-    "j5_b1": "Żammejt [[infleks_trade|Infleks Trade]], sistema tal-kummerċ li tibgħat ordnijiet f'ħin reali lill-borża Borsa Istanbul.",
-    "j5_b2": "Żviluppajt il-moduli tal-kontabilità u tal-klijenti ta' [[infleks_operation|Infleks Operation]] u [[infleks_wealth|Infleks Wealth Management]] bħala l-uniku żviluppatur ta' dawn il-moduli fit-tim, u żammejt il-moduli tal-fondi u tal-istrumenti derivattivi.",
+    "j5_b1": "Immantnejt [[infleks_trade|Infleks Trade]], sistema tal-kummerċ li tibgħat ordnijiet f'ħin reali lill-borża Borsa Istanbul.",
+    "j5_b2": "Żviluppajt il-moduli tal-kontabilità u tal-klijenti ta' [[infleks_operation|Infleks Operation]] u [[infleks_wealth|Infleks Wealth Management]] bħala l-uniku żviluppatur ta' dawn il-moduli fit-tim, u mmantnejt il-moduli tal-fondi u tal-istrumenti derivattivi.",
     "j5_note": "Irbaħt kompetizzjoni interna biex jinstab slogan ġdid għall-kumpanija; l-islogan li kien ilu jintuża mill-2004 inbidel għal <i>Innovation for Finance</i>",
 
     "j6_b1": "Żviluppajt u ppubblikajt apps tal-Android, logħob mobbli u għodod tal-iżvilupp matul diversi apprendistati.",
@@ -127,7 +127,7 @@
     "h_references": "Referenzi",
     "references_text": "Disponibbli fuq talba.",
     "h_keywords": "Kliem ewlieni",
-    "keywords_text": "10 snin esperjenza, Senior, Żviluppatur Java, Żviluppatur Full Stack, Inġinier Backend, Product Engineer, Data Engineer, Analista tad-Data, Forward Deployed Engineer",
+    "keywords_text": "10 snin ta' esperjenza, Senior, Żviluppatur Java, Żviluppatur Full Stack, Inġinier Backend, Product Engineer, Data Engineer, Analista tad-Data, Forward Deployed Engineer",
 
     "footer_with": "bi",
     "footer_site": "Sit web ta' CV li jista' jiġi stampat",
@@ -145,7 +145,7 @@
     "b_work": "Nipprattika l-istojċiżmu, kemm fil-ħajja personali kif ukoll f'dik professjonali. Meta l-affarijiet imorru ħażin, nagħmel dak kollu li nista' biex nirranġahom. Iżda meta xi ħaġa tkun verament barra mill-kontroll tiegħi, indawwar l-attenzjoni tiegħi lejn fejn verament nista' nagħmel differenza. Ma nistax ngħid li jien persuna ta' filgħodu jew ta' billejl, u m'għandix preferenza qawwija bejn xogħol mill-bogħod u fuq il-post. Li nista' ngħid hu li rrid inkun fejn l-aktar hemm bżonni u fejn nista' nagħmel l-akbar impatt.",
     "b_h_hobbies": "It-tliet passatempi ewlenin tiegħi",
     "b_h1": "1. Solo mining tal-Bitcoin",
-    "b_p1": "Ilni nagħmel solo mining tal-Bitcoin bħala passatemp sa mill-bidu ta' dan il-qasam, u dan jagħmilni wieħed mill-ewwel dilettanti f'din in-niċċa. Bnejt u nżomm [[solochance|SoloChance.org]], wieħed mill-ewwel siti ta' referenza u ta' kalkolu ddedikati għas-solo mining. Għandi wkoll diversi apparati tal-mining open source jaħdmu d-dar. Huwa passatemp affaxxinanti fejn jiltaqgħu d-divertiment, l-inġinerija, il-matematika u x-xorti pura. Nitkellem dwaru bil-qalb jekk tkun kurjuż li titgħallem aktar.",
+    "b_p1": "Ilni nagħmel solo mining tal-Bitcoin bħala passatemp sa mill-bidu ta' dan il-qasam, u dan jagħmilni wieħed mill-ewwel dilettanti f'din in-niċċa. Bnejt u nimmantni [[solochance|SoloChance.org]], wieħed mill-ewwel siti ta' referenza u ta' kalkolu ddedikati għas-solo mining. Għandi wkoll diversi apparati tal-mining open source jaħdmu d-dar. Huwa passatemp affaxxinanti fejn jiltaqgħu d-divertiment, l-inġinerija, il-matematika u x-xorti pura. Nitkellem dwaru bil-qalb jekk tkun kurjuż li titgħallem aktar.",
     "b_h2": "2. Karozzi",
     "b_p2": "Meta xtrajt l-ewwel karozza tiegħi, indunajt kemm id-disinn tal-karozzi tilef mill-karattru tiegħu meta mqabbel mal-karozzi li trabbejt madwarhom. Dan qajjem fija interess kbir fin-neoklassiċi, il-karozzi mibnija bejn wieħed u ieħor bejn l-1990 u l-2018. Inqatta' ħafna ħin nirriċerka dawn il-mudelli, u waħda mill-affarijiet li l-aktar qed nistenna fil-Ġermanja hija li fl-aħħar ikolli l-BMW jew l-Audi tal-ħolm tiegħi. Dawra fuq in-Nürburgring għadha fil-lista tax-xewqat tiegħi. Barra minn hekk, jien dilettant kbir ta' Gran Turismo 7 u nilgħabha regolarment.",
     "b_h3": "3. Astronomija u xjenza",

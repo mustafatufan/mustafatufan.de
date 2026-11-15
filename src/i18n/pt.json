@@ -24,7 +24,7 @@
     "status_avail_text": "imediata, para trabalho presencial, híbrido ou remoto",
 
     "h_summary": "Perfil",
-    "summary": "Engenheiro de Software Sénior com mais de 10 anos de experiência como programador backend em Java e Kotlin e engenheiro full stack em fintech, banca, seguros e criptomoedas, além de um mestrado em finanças. Stack principal: Java, Kotlin, Python, Spring Boot e SQL. Entregou projetos regulatórios de pensões e proteção de dados na Allianz, trabalhou como engenheiro de software e único analista de dados numa start-up de investimento em criptomoedas e manteve um sistema de trading ligado à bolsa Borsa Istanbul. Desenvolve e opera projetos pessoais em produção, incluindo o SoloChance.org, com mais de 5 milhões de pedidos mensais e 40 mil utilizadores únicos. Usa diariamente o desenvolvimento assistido por IA (Claude Code, GitHub Copilot, Gemini, ChatGPT), verificando sempre os resultados na documentação oficial.",
+    "summary": "Engenheiro de Software Sénior com mais de 10 anos de experiência como programador backend em Java e Kotlin e engenheiro full stack em fintech, banca, seguros e criptomoedas, além de um mestrado em finanças. Stack principal: Java, Kotlin, Python, Spring Boot e SQL. Entreguei projetos regulatórios de pensões e proteção de dados na Allianz, trabalhei como engenheiro de software e único analista de dados numa start-up de investimento em criptomoedas e mantive um sistema de trading ligado à bolsa Borsa Istanbul. Desenvolvo e opero projetos pessoais em produção, incluindo o SoloChance.org, com mais de 5 milhões de pedidos mensais e 40 mil utilizadores únicos. Uso diariamente o desenvolvimento assistido por IA (Claude Code, GitHub Copilot, Gemini, ChatGPT), verificando sempre os resultados na documentação oficial.",
 
     "h_skills": "Competências",
     "sk_prog_label": "Linguagens de programação:",
@@ -59,8 +59,8 @@
     "dur_4m": "4 meses",
     "dur_10m": "10 meses",
     "dur_2y4m": "2 anos e 4 meses",
-    "tech_label": "Setor e stack tecnológico:",
-    "tech_label_short": "Stack tecnológico:",
+    "tech_label": "Setor e stack tecnológica:",
+    "tech_label_short": "Stack tecnológica:",
     "present": "presente",
     "in_production": "em produção",
 
@@ -95,7 +95,7 @@
     "p2_b1": "O bch.ee Parasite Pool recompensa quem encontra o bloco com um bónus de 1 BCH além dos pagamentos proporcionais e suporta qualquer hardware SHA-256, com contabilização de shares da ronda completa.",
     "p2_b2": "O bitcoincash.ee Pool é o primeiro pool de mineração cripto gamificado do mundo a encontrar um bloco: os shares competem numa classificação ao vivo Best 13, os 13 shares de maior dificuldade dividem a recompensa e todos os pagamentos são feitos sem intermediários (trustless) na própria transação coinbase do bloco.",
     "p2_b3": "No total, os pools encontraram 17 blocos de BCH e distribuíram mais de 53 BCH (cerca de 10 000 EUR em novembro de 2026) por uma comunidade ativa de mais de 100 utilizadores.",
-    "p2_b4": "Assentes em software de mineração open source em C/C++, um stack aprendido sem experiência prévia e posto rapidamente em produção, incluindo decisões de produto e de negócio além da engenharia.",
+    "p2_b4": "Assentes em software de mineração open source em C/C++, uma stack aprendida sem experiência prévia e posta rapidamente em produção, incluindo decisões de produto e de negócio além da engenharia.",
     "p3_what": "faucet Testnet4 ao estilo de casino, sem dinheiro real",
     "p3_b1": "Faucet de moedas Testnet4 de Bitcoin e Bitcoin Cash apresentado como um casino com seis slot machines, uma mesa de roleta ao vivo e duas mesas de póquer No-Limit Texas Hold'em. Sem dinheiro real e sem depósitos.",
     "p3_b2": "Jogos provably fair com hashes de seed publicados que qualquer pessoa pode verificar, livro-razão de partidas dobradas, início de sessão com passkey e wallet, roleta e póquer em tempo real por WebSocket e um serviço de levantamentos isolado e protegido por um kill switch.",
@@ -136,7 +136,7 @@
     "b_desc": "Passatempos, interesses e a pessoa por detrás do código.",
     "b_keywords": "Adequação cultural, passatempos, interesses, pessoal",
     "b_back": "Voltar ao currículo",
-    "b_intro": "Contratar não é apenas uma questão de competências técnicas. Encontrar alguém que se enquadre verdadeiramente na cultura da equipa é igualmente importante, e sei que essa é uma das partes mais difíceis do processo. Foi exatamente por isso que criei esta página. Aqui encontra o meu lado pessoal, não profissional: os meus interesses, os meus valores e como sou para além do código. Espero que o ajude a ter uma imagem mais completa.",
+    "b_intro": "Contratar não é apenas uma questão de competências técnicas. Encontrar alguém que se enquadre verdadeiramente na cultura da equipa é igualmente importante, e sei que essa é uma das partes mais difíceis do processo. Foi exatamente por isso que criei esta página. Aqui encontra o meu lado pessoal, não profissional: os meus interesses, os meus valores e como sou para além do código. Espero que ajude a ter uma imagem mais completa.",
     "b_h_basics": "Comecemos pelo essencial",
     "b_basics": "Respeito e valorizo a diversidade em todas as suas formas. O que mais me importa num colega é a sua ética de trabalho, a curiosidade e a vontade de colaborar. Trabalhei em equipas multiculturais em Istambul, Esmirna, Tartu e Taline, e gosto genuinamente das perspetivas que os ambientes diversos trazem.",
     "b_h_workplace": "O que espero do meu próximo local de trabalho",

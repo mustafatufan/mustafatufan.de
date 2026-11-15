@@ -76,7 +76,7 @@
     "j2_b2": "Integrated EveryPay credit card payments, the Contis crypto Visa debit card, and Customer.io and Mixpanel tracking.",
     "j2_b3": "Worked as the only data analyst in the company alongside the engineering role: gained full knowledge of the product's database, delivered automated reports, and visualised and presented results to the product teams and C-level managers.",
     "j2_b4": "Built fraud detection queries and reports that uncovered multiple five-figure fraud cases and one six-figure case.",
-    "j2_note": "Made [[video|a video production]] for the company, including shooting and editing, for early days of COVID-19.",
+    "j2_note": "Made [[video|a video production]] for the company, including shooting and editing, in the early days of COVID-19.",
 
     "j3_b1": "Developed custom Odoo ERP modules in Python and JavaScript for Estonian construction and manufacturing companies.",
 
@@ -85,7 +85,7 @@
 
     "j5_b1": "Maintained [[infleks_trade|Infleks Trade]], a trading system that sends real-time trade orders to the Borsa Istanbul stock exchange.",
     "j5_b2": "Developed the accounting and customer modules of [[infleks_operation|Infleks Operation]] and [[infleks_wealth|Infleks Wealth Management]] as the sole developer of these modules in the team, and maintained the fund and derivative instruments modules.",
-    "j5_note": "Won an in-house contest to find a new slogan for the company, and changed the former slogan that was used since 2004 into <i>Innovation for Finance</i>",
+    "j5_note": "Won an in-house contest to find a new slogan for the company, and changed the former slogan that had been used since 2004 into <i>Innovation for Finance</i>",
 
     "j6_b1": "Developed and published Android apps, mobile games, and development tools during multiple internships.",
 
@@ -133,7 +133,7 @@
 
     "footer_with": "with",
     "footer_site": "Printable Resume Website",
-    "footer_star": "Star on Github",
+    "footer_star": "Star on GitHub",
 
     "b_desc": "Hobbies, interests, and the person behind the code.",
     "b_keywords": "Culture Fit, Hobbies, Interests, Personal",
@@ -147,12 +147,12 @@
     "b_work": "I practise stoicism, both in my personal and professional life. When things go wrong, I do everything I can to make it right. But when something is truly out of my control, I shift my focus to where I can actually make a difference. I can't say I'm a morning person or a night owl, and I have no strong preference for remote or onsite. What I can say is that I want to be wherever I am most needed and most impactful.",
     "b_h_hobbies": "My Top Three Hobbies",
     "b_h1": "1. Bitcoin Solo Mining",
-    "b_p1": "I have been solo mining Bitcoin as a hobby since the early days of the space, making me one of the earliest enthusiasts in this niche. I built and maintain [[solochance|SoloChance.org]], one of the first reference and calculation websites dedicated to solo mining. I also run multiple open-source mining devices at home. It is a fascinating hobby where fun, engineering, math, and pure luck all intersect. I'd happily chat about it if you're curious to learn more.",
+    "b_p1": "I have been solo mining Bitcoin as a hobby since the early days of the space, making me one of the earliest enthusiasts in this niche. I built and maintain [[solochance|SoloChance.org]], one of the first reference and calculation websites dedicated to solo mining. I also run multiple open-source mining devices at home. It is a fascinating hobby where fun, engineering, maths, and pure luck all intersect. I'd happily chat about it if you're curious to learn more.",
     "b_h2": "2. Cars",
     "b_p2": "Getting my first car made me realise how much car design has lost its character compared to the cars I grew up around as a kid. That sparked a deep interest in neo-classics, the cars built roughly between 1990 and 2018. I spend a lot of time researching these models, and one of the things I'm most excited about in Germany is finally getting my dream BMW or Audi. A lap on the Nürburgring is still on my bucket list. On top of all that, I'm a huge Gran Turismo 7 fan and regular player.",
     "b_h3": "3. Astronomy and Science",
-    "b_p3": "If I had the right circumstances growing up, I would most likely have become a scientist. The curiosity never left. I own a telescope with an astronomy camera mounted on it, and I have observed and photographed the Moon, Mars, Jupiter, and Saturn myself. If I had to pick one book to guide humanity, it would probably be Carl Sagan's <i>Cosmos</i>. I carry a great deal of fire in the belly when it comes to understanding how things work. I don't want to believe. I want to know.",
+    "b_p3": "If I had the right circumstances growing up, I would most likely have become a scientist. The curiosity never left. I own a telescope with an astronomy camera mounted on it, and I have observed and photographed the Moon, Mars, Jupiter, and Saturn myself. If I had to pick one book to guide humanity, it would probably be Carl Sagan's <i>Cosmos</i>. I carry a great deal of fire in my belly when it comes to understanding how things work. I don't want to believe. I want to know.",
     "b_h_germany": "My Connection with Germany",
-    "b_germany1": "Germany has been part of my family's story long before it became part of mine. My father grew up in Arnsberg, where his parents had settled more than 20 years earlier. When he was 16, they decided to move back to Turkey without ever obtaining German citizenship, and as a minor he had no choice but to go with them. He never got the chance to return due to visa barriers. I grew up listening to stories from my father, aunt, and uncle about how beautiful their life in Germany was and how much they wished they could have stayed, returned, or even visited.",
+    "b_germany1": "Germany was part of my family's story long before it became part of mine. My father grew up in Arnsberg, where his parents had settled more than 20 years earlier. When he was 16, they decided to move back to Turkey without ever obtaining German citizenship, and as a minor he had no choice but to go with them. He never got the chance to return due to visa barriers. I grew up listening to stories from my father, aunt, and uncle about how beautiful their life in Germany was and how much they wished they could have stayed, returned, or even visited.",
     "b_germany2": "Moving to Germany is not just a career decision for me. It is something my family has been connected to for generations, a story that was left unfinished. It's one I want to continue."
 }
